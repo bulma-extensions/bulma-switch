@@ -13,6 +13,12 @@ Since the original repository is not maintained anymore and marked as achived, I
 npm install @samlam140330/bulma-switch
 ```
 
+## Usage
+
+```scss
+@use "/node_modules/@samlam140330/bulma-switch/bulma-switch.scss";
+```
+
 ## License
 
 [![NPM License](https://img.shields.io/npm/l/%40samlam140330%2Fbulma-switch)](https://www.npmjs.com/package/@samlam140330/bulma-switch)
